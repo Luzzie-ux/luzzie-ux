@@ -1,4 +1,8 @@
-## Hi there 👋
+# Welcome Moon-and-Star, ti this place where destiny is made
+
+# Come look upon the Code and the 42 Projects we made
+
+# Come not by stealth, but by grace of the engineer
 
 <!--
 **Luzzie-ux/luzzie-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

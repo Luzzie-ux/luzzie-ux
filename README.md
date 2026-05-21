@@ -10,8 +10,16 @@
   <li><a href="https://github.com/Luzzie-ux/GNL">Prince of Treachery</a></li>
   <li><a href="https://github.com/Luzzie-ux/Push_swap">Prince of Lies</a></li>
   <li><a href="https://github.com/Luzzie-ux/Reload">Prince of the Forbidden</a></li>
+  <li><a href="/Projects">Projects</a></li>
 </ol>
 
+<h2>Projects</h2>
+
+<h2>About me</h2>
+
+<h2>Interests</h2>
+
+<h2> </h2>
 </body>
 </html>
 

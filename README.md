@@ -1,33 +1,40 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Welcome Moon-and-Star, to this place where destiny is made</h1>
- 
-<h2>Table of Contents</h2>
+
+# *Welcome, Moon-and-Star, to this place where destiny is made*
+
+Here lies the ambition of the sleepless and the strength of many minds  
+Through the honor of the houses and the princes of Oblivion we create  
+And from the challenges sent to shake our foundations, we surge victorious  
+
+## Table of contents
+
+ 1. [About me](#about-me)
+ 2. [Interests](#interests)
+ 3. [Projects](#projects)
+ 4. [Socials](#socials)
+
+### About me
+
+### Interests
+
+### Projects
+*Come Nerevar, look upon the Code and the Projects we made*
+
 <ol>
-  <li><a href="https://github.com/Luzzie-ux/Libft">Prince of Madness</a></li>
-  <li><a href="https://github.com/Luzzie-ux/Printf">Prince of Dawn and Dusk</a></li>
-  <li><a href="https://github.com/Luzzie-ux/GNL">Prince of Treachery</a></li>
-  <li><a href="https://github.com/Luzzie-ux/Push_swap">Prince of Lies</a></li>
+  <li><a href="https://github.com/Luzzie-ux/Libft">Prince of Dawn and Dusk</a></li>
+  <li><a href="https://github.com/Luzzie-ux/Printf">Prince of Treachery</a></li>
+  <li><a href="https://github.com/Luzzie-ux/GNL">Prince of Lies</a></li>
+  <li><a href="https://github.com/Luzzie-ux/Push_swap">Prince of Madness</a></li>
   <li><a href="https://github.com/Luzzie-ux/Reload">Prince of the Forbidden</a></li>
-  <li><a href="/Projects">Projects</a></li>
 </ol>
 
-<h2>Projects</h2>
+### Socials
 
-<h2>About me</h2>
-
-<h2>Interests</h2>
-
-<h2> </h2>
 </body>
 </html>
 
-
-
-<!-- Come Nerevar, look upon the Code and the 42 Projects we made  
-
-Come not by stealth, but by grace of the engineer  -->
 <!--
 **Luzzie-ux/luzzie-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

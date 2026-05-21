@@ -5,13 +5,12 @@
  
 <h2>Table of Contents</h2>
 <ol>
-  <li><a href:="https://images.uesp.net/thumb/0/05/ON-concept-Prince-Sheogorath-emblem.png/150px-ON-concept-Prince-Sheogorath-emblem.png">Prince of Madness</a></li>
-  <li><a href:="https://images.uesp.net/thumb/c/ca/ON-concept-Prince-Azura-emblem.png/150px-ON-concept-Prince-Azura-emblem.png">Prince of Dawn n Dusk</a></li>
-  <li><a href:="https://images.uesp.net/thumb/3/30/ON-concept-Prince-Boethia-emblem.png/150px-ON-concept-Prince-Boethia-emblem.png">Prince of Treachery</a></li>
-  <li><a href:="https://images.uesp.net/thumb/8/8f/ON-concept-Prince-Mephala-emblem.png/150px-ON-concept-Prince-Mephala-emblem.png">Prince of Lies</a></li>
-  <li><a href:="https://images.uesp.net/thumb/7/71/ON-concept-Prince-Hermaeus_Mora-emblem.png/150px-ON-concept-Prince-Hermaeus_Mora-emblem.png">Prince of the Forbidden</a></li> 
+  <li><a href:="https://github.com/Luzzie-ux/Libft">Prince of Madness</a></li>
+  <li><a href:="https://github.com/Luzzie-ux/Printf">Prince of Dawn and Dusk</a></li>
+  <li><a href:="https://github.com/Luzzie-ux/GNL">Prince of Treachery</a></li>
+  <li><a href:="https://github.com/Luzzie-ux/Push_swap">Prince of Lies</a></li>
+  <li><a href:="https://github.com/Luzzie-ux/Reload">Prince of the Forbidden</a></li>
 </ol>
-
 
 </body>
 </html>

@@ -1,38 +1,40 @@
 <!DOCTYPE html>
 <html>
-<body>
-
-# *Welcome, Moon-and-Star, to this place where destiny is made*
-
-Here lies the ambition of the sleepless and the strength of many minds  
-Through the honor of the houses and the princes of Oblivion we create  
-And from the challenges sent to shake our foundations, we surge victorious  
-
-## Table of contents
-
- 1. [About me](#about-me)
- 2. [Interests](#interests)
- 3. [Projects](#projects)
- 4. [Socials](#socials)
-
-### About me
-
-### Interests
-
-### Projects
-*Come Nerevar, look upon the Code and the Projects we made*
-
-<ol>
-  <li><a href="https://github.com/Luzzie-ux/Libft">Prince of Dawn and Dusk</a></li>
-  <li><a href="https://github.com/Luzzie-ux/Printf">Prince of Treachery</a></li>
-  <li><a href="https://github.com/Luzzie-ux/GNL">Prince of Lies</a></li>
-  <li><a href="https://github.com/Luzzie-ux/Push_swap">Prince of Madness</a></li>
-  <li><a href="https://github.com/Luzzie-ux/Reload">Prince of the Forbidden</a></li>
-</ol>
-
-### Socials
-
-</body>
+ <body>
+ 
+ ## *Welcome, Moon-and-Star, to this place where destiny is made*
+ 
+ Here lies the ambition of the sleepless and the strength of many minds  
+ Through the honor of the houses and the princes of Oblivion we create  
+ And from the challenges sent to shake our foundations, we surge victorious  
+ 
+ ### About me
+ 
+ Hai, my name is Luz
+ Currently I am studying Computer Science at [42 Porto](https://www.42porto.com/pt/) to become a Software Engineer, learning is a pation of mine so anything that I can educate myself about is good in my book. In case you need anything you can find me in any of my socials listed under [Socials](#socials). *Now that we have spoken, go check my projects under [Projects](#projects)*.
+ 
+ ### Interests
+ 
+ IDK DAMMIT
+ 
+ ### Projects
+ *Come Nerevar, look upon the Code and the Projects we made*
+ 
+ <ol> C Projects
+   <li><a href="https://github.com/Luzzie-ux/Libft">Prince of Dawn and Dusk</a></li>
+   <li><a href="https://github.com/Luzzie-ux/Printf">Prince of Treachery</a></li>
+   <li><a href="https://github.com/Luzzie-ux/GNL">Prince of Lies</a></li>
+   <li><a href="https://github.com/Luzzie-ux/Push_swap">Prince of Madness</a></li>
+   <li><a href="https://github.com/Luzzie-ux/Reload">Prince of the Forbidden</a></li>
+ </ol>
+ 
+ ### Socials
+ 
+ instagram...
+ Linkelin...
+ Email...
+ 
+ </body>
 </html>
 
 <!--

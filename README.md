@@ -5,11 +5,11 @@
  
 <h2>Table of Contents</h2>
 <ol>
-  <li><a href:="https://github.com/Luzzie-ux/Libft">Prince of Madness</a></li>
-  <li><a href:="https://github.com/Luzzie-ux/Printf">Prince of Dawn and Dusk</a></li>
-  <li><a href:="https://github.com/Luzzie-ux/GNL">Prince of Treachery</a></li>
-  <li><a href:="https://github.com/Luzzie-ux/Push_swap">Prince of Lies</a></li>
-  <li><a href:="https://github.com/Luzzie-ux/Reload">Prince of the Forbidden</a></li>
+  <li><a href="https://github.com/Luzzie-ux/Libft">Prince of Madness</a></li>
+  <li><a href="https://github.com/Luzzie-ux/Printf">Prince of Dawn and Dusk</a></li>
+  <li><a href="https://github.com/Luzzie-ux/GNL">Prince of Treachery</a></li>
+  <li><a href="https://github.com/Luzzie-ux/Push_swap">Prince of Lies</a></li>
+  <li><a href="https://github.com/Luzzie-ux/Reload">Prince of the Forbidden</a></li>
 </ol>
 
 </body>

@@ -1,4 +1,4 @@
-!DOCTYPE  HTML
+<!DOCTYPE html>
 <html>
 <body>
 <h1>Welcome Moon-and-Star, to this place where destiny is made</h1>

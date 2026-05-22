@@ -10,8 +10,6 @@
 	<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/banner.png" width="1150px"/>
 </div>
 
-## *Welcome, Moon-and-Star, to this place where destiny is made*
-
 Through the honor of the houses and the princes of Oblivion we create,  
 
 In these archives lie the works forged through sleepless study,  

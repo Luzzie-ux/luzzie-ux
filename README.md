@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html>
+ <head>
+  <meta charset= "UTF-8">
+  <meta name="author" content="Luz">
+ </head>
  <body>
  
  ## *Welcome, Moon-and-Star, to this place where destiny is made*
@@ -30,9 +34,13 @@
  
  ### Socials
  
- instagram...
- Linkelin...
- Email...
+ Linkelin: [in/rodrigo-pereira](https://www.linkedin.com/in/rodrigo-pereira-6bb579358)  
+ Email: estelarodrigoluz@gmail.com
+
+ ### Links
+
+ <p title="check this out"><a href="https://syntaxsimplified.com/cheatsheet/HTML/hypertext_markup_language.html">Html</a> cheat sheet</p>
+ <p title="this one too"><a href="https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet">Markdown</a> cheat sheet</p>
  
  </body>
 </html>

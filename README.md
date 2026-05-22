@@ -19,7 +19,7 @@
 
 ---
 
-<div align="center">
+<div align="justify">
 	<h3>Records of House Dagoth</h3>
 	<p> Through the honor of the houses and the Princes of Oblivion, we create,</p>
 	<p> In these archives lie the works forged through sleepless study,</p>
@@ -29,10 +29,15 @@
 	<p> each project marks another step upon the path.</p>
 </div>
 
+---
+
 ### About me - Records of the Neraverine
 
-Hai, my name is Luz  
-Currently I am studying Computer Science at [42 Porto](https://www.42porto.com/pt/) to become a Software Engineer, learning is a pation of mine so anything that I can educate myself about is good in my book. In case you need anything you can find me in any of my socials listed under [Links](#links).  
+Hello! My name is Luz :D  
+
+I am a Cadet at 42 Porto and studying to become a Software Enginner.   
+Learning is a pation of mine, and that is why I am here.  
+In case you need anything from me, my socials are listed below.    
 
 *Now that we have spoken, go check my work under [Projects](#projects)*.
 
@@ -43,6 +48,8 @@ Currently I am studying Computer Science at [42 Porto](https://www.42porto.com/p
 ✦	Building & Eletronics  
 ✦	Psicology  
 ✦	Arts & Design  
+
+---
 
 ### Projects - The Great Works
 
@@ -65,6 +72,8 @@ Currently I am studying Computer Science at [42 Porto](https://www.42porto.com/p
 	<li><a href=""></a>(Module 4)</li>
 	<li><a href=""></a>(Module 5)</li>
 </ol>
+
+---
 
 ### Links
 	

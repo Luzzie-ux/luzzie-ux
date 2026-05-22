@@ -7,7 +7,7 @@
 <body>
 
 <div align="center">
-	<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/My%20Neocities%20website.png" width="1150px"/>
+	<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/banner.png" width="1150px"/>
 </div>
 
 ## *Welcome, Moon-and-Star, to this place where destiny is made*

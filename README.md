@@ -8,33 +8,43 @@
 
 <div align="center">
 	<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/banner.png" width="1150px"/>
+	
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 </div>
 
-Through the honor of the houses and the princes of Oblivion we create,  
+---
 
-In these archives lie the works forged through sleepless study,  
-the trials of logic, and the pursuit of hidden knowledge.  
+<div align="center">
+	<h3>Records of House Dagoth</h3>
+	<p> Through the honor of the houses and the Princes of Oblivion, we create,</p>
+	<p> In these archives lie the works forged through sleepless study,</p>
+	<p> the trials of logic, and the pursuit of hidden knowledge.</p>
+	<p> From the ashlands of low-level programming</p>
+	<p> to the strange magics of software engineering,</p>
+	<p> each project marks another step upon the path.</p>
+</div>
 
-From the ashlands of low-level programming  
-to the strange magics of software engineering,  
-each project marks another step upon the path.  
+### About me - Records of the Neraverine
 
-### About me (Records of the Neraverine)
-
-Hai, my name is Luz
+Hai, my name is Luz  
 Currently I am studying Computer Science at [42 Porto](https://www.42porto.com/pt/) to become a Software Engineer, learning is a pation of mine so anything that I can educate myself about is good in my book. In case you need anything you can find me in any of my socials listed under [Links](#links).  
 
 *Now that we have spoken, go check my work under [Projects](#projects)*.
 
-### Interests ()
+### Interests - Current Pursuits
 
-Embedded Systems  
-Game Dev   
-Eletronics  
-Psicology  
-2D and 3D Art  
+✦	Embedded Systems  
+✦	Game Develepment  
+✦	Building & Eletronics  
+✦	Psicology  
+✦	Arts & Design  
 
-### Projects (The Great Works)
+### Projects - The Great Works
 
 *Come Nerevar, look upon the Code and the Projects we made*
 		
@@ -56,7 +66,7 @@ Psicology
 	<li><a href=""></a>(Module 5)</li>
 </ol>
 
-### Links ()
+### Links
 	
 Linkelin: [in/rodrigo-pereira](https://www.linkedin.com/in/rodrigo-pereira-6bb579358)
 

@@ -13,10 +13,10 @@
 ---
 
 <div align="justify">
-	<h2>Poem to House Dagoth</h2>
 	<div>
 		<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/poem.png" width="500px"/>
 	</div>
+	<br></br>
 	<p> Through the honor of the houses and the Princes of Oblivion, we create,</p>
 	<p> In these archives lie the works forged through sleepless study,</p>
 	<p> the trials of logic, and the pursuit of hidden knowledge.</p>
@@ -28,11 +28,10 @@
 
 ---
 
-## Records of the Neraverine
-
 <div>
 	<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/about.png" width="500px"/>
 </div>
+<br></br>
 
 ### About me
 
@@ -68,16 +67,14 @@ HTML and CSS, with the help of Git too to make everything connected
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 -->
 
-*Now that we have spoken, go check my work under [Projects](#projects-the-great-works)*.
+*Now that we have spoken, go check my work*.
 
 ---
-
-## Projects - The Great Works
 
 <div>
 	<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/projects.png" width="500px"/>
 </div>
-
+<br></br>
 
 *Come Nerevar, look upon the Code and the Projects we made*
 		
@@ -140,11 +137,10 @@ HTML and CSS, with the help of Git too to make everything connected
 
 ---
 
-## Links
-
 <div>
 	<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/links.png" width="500px"/>
 </div>
+<br></br>
 
 ### Socials
 	
@@ -158,9 +154,11 @@ HTML and CSS, with the help of Git too to make everything connected
 
 ---
 
-⛧°. . ⋆༺☾༻⋆. .⋆⭒˚⭒⋆. . ⋆༺☾𖤓༻⋆ . .⋆⭒˚⭒⋆. . ⋆༺𖤓༻⋆. °⛧  
-*Farewall Neraverine, may we see eachother again*  
-⛧°. . ⋆༺☾༻⋆. .⋆⭒˚⭒⋆. . ⋆༺☾𖤓༻⋆ . .⋆⭒˚⭒⋆. . ⋆༺𖤓༻⋆. °⛧  
+<div align="center">
+	<p>⛧°. . ⋆༺☾༻⋆. .⋆⭒˚⭒⋆. . ⋆༺☾𖤓༻⋆ . .⋆⭒˚⭒⋆. . ⋆༺𖤓༻⋆. °⛧</p>  
+	<p>*Farewall Neraverine, may we see eachother again*</p>
+	<p>⛧°. . ⋆༺☾༻⋆. .⋆⭒˚⭒⋆. . ⋆༺☾𖤓༻⋆ . .⋆⭒˚⭒⋆. . ⋆༺𖤓༻⋆. °⛧</p>	    
+</div>
 
 </body>
 </html>

@@ -62,65 +62,56 @@ In case you need anything from me, my socials are listed below.
 			<h3> ✦ C Language ✦ </h3>
 		</summary>
 		<article>
-			<h4>
-				<a href="https://github.com/Luzzie-ux/Libft">Libft</a>
-			</h4>
-			<p>Custom C Library</p>
+			<h4>Libft</h4>
+			<p><a href="https://github.com/Luzzie-ux/Libft">"The Custom C Library"</a></p>
 		</article>
 		<article>
-			<h5>
-				<a href="https://github.com/Luzzie-ux/GNL">Ft_Printf</a>
-			</h5>
-			<p>("%s", "HELLO WORLD!")</p>
+			<h4>Ft_Printf</h4>
+			<p><a href="https://github.com/Luzzie-ux/GNL">("%s", "HELLO WORLD!")</a></p>
 		</article>
 		<article>
-			<h5>
-				<a href="https://github.com/Luzzie-ux/GNL">Get Next Line</a>
-			</h5>
-			<p>Is it a \n yet?</p>
+			<h4>Get_Next_Line</h4>
+			<p><a href="https://github.com/Luzzie-ux/GNL">"Is it a \n yet?"</a></p>
 		</article>
 		<article>
-			<h5>
-				<a href="https://github.com/Luzzie-ux/Push_swap">Push Swap</a>
-			</h5>
-			<p>Big O Hell</p>
+			<h4>Push_Swap</h4>
+			<p><a href="https://github.com/Luzzie-ux/Push_swap">"Big O Hell"</a></p>
 		</article>
 		<article>
-			<h5>
-				<a href="https://github.com/Luzzie-ux/Reload">Reload</a>
-			</h5>
-			<p>Piscine Reloaded</p>
+			<h4>Piscine_Reload</h4>
+			<p><a href="https://github.com/Luzzie-ux/Reload">"Reloading"</a></p>
 		</article>
 	</details>
 </section>
+<br></br>
 <section>
 	<details>
 		<summary>
 			<h3> ✦ Python Language ✦ </h3>
 		</summary>
 		<article>
-			<h5> Module 1</h5>
+			<h4> Module 1</h4>
 			<p> idk yet</p>
 		</article>
 		<article>
-			<h5> Module 2</h5>
+			<h4> Module 2</h4>
 			<p> idk yet</p>
 		</article>
 		<article>
-			<h5> Module 3</h5>
+			<h4> Module 3</h4>
 			<p> idk yet</p>
 		</article>
 		<article>
-			<h5> Module 4</h5>
+			<h4> Module 4</h4>
 			<p> idk yet</p>
 		</article>
 		<article>
-			<h5> Module 5</h5>
+			<h4> Module 5</h4>
 			<p> idk yet</p>
 		</article>
 	</details>
 </section>
-
+<br></br>
 ---
 
 ### Links

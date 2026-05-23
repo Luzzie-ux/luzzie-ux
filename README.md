@@ -14,17 +14,27 @@
 
 <div align="justify">
 	<h2>Poem to House Dagoth</h2>
+	<div>
+		<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/poem.png" width="500px"/>
+	</div>
 	<p> Through the honor of the houses and the Princes of Oblivion, we create,</p>
 	<p> In these archives lie the works forged through sleepless study,</p>
 	<p> the trials of logic, and the pursuit of hidden knowledge.</p>
 	<p> From the ashlands of low-level programming</p>
 	<p> to the strange magics of software engineering,</p>
-	<p> each project marks another step upon the path.</p>
+	<p> each project marks another step upon this path,</p>
+	<p> the path of open sourceness countribuiton</p>
 </div>
 
 ---
 
-## About me - Records of the Neraverine
+## Records of the Neraverine
+
+<div>
+	<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/about.png" width="500px"/>
+</div>
+
+### About me
 
 Hello! My name is Luz :D  
 
@@ -64,12 +74,17 @@ HTML and CSS, with the help of Git too to make everything connected
 
 ## Projects - The Great Works
 
+<div>
+	<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/projects.png" width="500px"/>
+</div>
+
+
 *Come Nerevar, look upon the Code and the Projects we made*
 		
-<section>
+<section className="C">
 	<details>
 		<summary>
-			<h3> ⋆⁺₊⋆ ☾⋆⁺₊⋆ C Language ⋆⁺₊⋆ ☽⋆⁺₊⋆ </h3>
+			<h3> ⋆⁺₊⋆ ☾⋆⁺₊⋆ | C Language | ⋆⁺₊⋆ ☽⋆⁺₊⋆ </h3>
 		</summary>
 		<article>
 			<h4>Libft</h4>
@@ -94,30 +109,30 @@ HTML and CSS, with the help of Git too to make everything connected
 	</details>
 </section>
 <br></br>
-<section>
+<section className="Python">
 	<details>
 		<summary>
-			<h3> ⋆⁺₊⋆ ☾⋆⁺₊⋆ Python Language ⋆⁺₊⋆ ☽⋆⁺₊⋆ </h3>
+			<h3> ⋆⁺₊⋆ ☾⋆⁺₊⋆ | Python Language | ⋆⁺₊⋆ ☽⋆⁺₊⋆ </h3>
 		</summary>
 		<article>
 			<h4> Module 1</h4>
-			<p> idk yet</p>
+			<p><a></a> idk yet</p>
 		</article>
 		<article>
 			<h4> Module 2</h4>
-			<p> idk yet</p>
+			<p><a></a> idk yet</p>
 		</article>
 		<article>
 			<h4> Module 3</h4>
-			<p> idk yet</p>
+			<p><a></a> idk yet</p>
 		</article>
 		<article>
 			<h4> Module 4</h4>
-			<p> idk yet</p>
+			<p><a></a> idk yet</p>
 		</article>
 		<article>
 			<h4> Module 5</h4>
-			<p> idk yet</p>
+			<p><a></a> idk yet</p>
 		</article>
 	</details>
 </section>
@@ -126,6 +141,10 @@ HTML and CSS, with the help of Git too to make everything connected
 ---
 
 ## Links
+
+<div>
+	<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/links.png" width="500px"/>
+</div>
 
 ### Socials
 	

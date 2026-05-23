@@ -88,41 +88,46 @@ HTML and CSS, with the help of Git too to make everything connected
 		<article>
 			<details>
 				<summary>
-					<h4>Libft</h4>
+					<h4>Libft -<em> A custom implementation of the C standard library</em></h4>
+   					<p>Memory management, string manipulation and linked lists</p>
 				</summary>
-				<p><a href="https://github.com/Luzzie-ux/Libft">"The Custom C Library"</a></p>
+				<p><a href="https://github.com/Luzzie-ux/Libft">->View repo</a></p>
 			</details>
 		</article>
 		<article>
 			<details>
 				<summary>
-					<h4>Ft_Printf</h4>
+					<h4>Ft_Printf -<em> A reimplementation of the classic printf function.</em></h4>
+					<p>Handling variadic arguments and format specifiers.</p>
 				</summary>
-				<p><a href="https://github.com/Luzzie-ux/Printf">("%s", "HELLO WORLD!")</a></p>
+				<p><a href="https://github.com/Luzzie-ux/Printf">->View repo</a></p>
 			</details>
 		</article>
 		<article>
 			<details>
 				<summary>
-					<h4>Get_Next_Line</h4>
+					<h4>Get_Next_Line -<em> A function that reads a file descriptor line by line.</em></h4>
+					<p>Exploring static variables, buffer management, and file I/O</p>
 				</summary>
-				<p><a href="https://github.com/Luzzie-ux/GNL">"Is it a \n yet?"</a></p>
+				<p><a href="https://github.com/Luzzie-ux/GNL">->View repo</a></p>
 			</details>
 		</article>
 		<article>
 			<details>
 				<summary>
-					<h4>Push_Swap</h4>
+					<h4>Push_Swap -<em> Under Construction...</em></h4>
+					<p>The Order of complexity just went from 0 to O(n log (n))</p>
 				</summary>
-				<p><a href="https://github.com/Luzzie-ux/Push_swap">"Big O Hell"</a></p>
+				<p><a href="https://github.com/Luzzie-ux/Push_swap">->View repo</a></p>
 			</details>
 		</article>
 		<article>
 			<details>
 				<summary>
-					<h4>Piscine_Reload</h4>
+					<h4>Piscine_Reload -<em> A return to the fundamentals — revisiting the 42 Piscine exercises.</em></h4>
+					<p>Sharpening the basics of C after the initial trial by fire.</p>
 				</summary>
-				<p><a href="https://github.com/Luzzie-ux/Reload">"Reloading"</a></p>
+				<p><a href="https://github.com/Luzzie-ux/Reload">->View repo</a></p>
 			</details>
 		</article>
 	</details>

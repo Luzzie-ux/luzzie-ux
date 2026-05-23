@@ -56,14 +56,54 @@ In case you need anything from me, my socials are listed below.
 
 *Come Nerevar, look upon the Code and the Projects we made*
 		
-<ol>
-	<b>C Language</b>
-	<li><a href="https://github.com/Luzzie-ux/Libft">Prince of Dawn and Dusk</a> (Libft)</li>
-	<li><a href="https://github.com/Luzzie-ux/Printf">Prince of Treachery</a> (Printf)</li>
-	<li><a href="https://github.com/Luzzie-ux/GNL">Prince of Lies</a> (Get Next Line)</li>
-	<li><a href="https://github.com/Luzzie-ux/Push_swap">Prince of Madness</a> (Push Swap)</li>
-	<li><a href="https://github.com/Luzzie-ux/Reload">Prince of the Forbidden</a> (Reload)</li>
-</ol>
+<section>
+	<details>
+		<summary>
+			<h4>C Language</h4>
+		</summary>
+		<article>
+			<h5>
+				<a href="https://github.com/Luzzie-ux/Libft">Libft</a>
+			</h5>
+			<p>Custom C Library</p>
+		</article>
+		<article>
+			<h5>
+				<a href="https://github.com/Luzzie-ux/GNL">Ft_Printf</a>
+			</h5>
+			<p>("%s", "HELLO WORLD!")</p>
+		</article>
+		<article>
+			<h5>
+				<a href="https://github.com/Luzzie-ux/GNL">Get Next Line</a>
+			</h5>
+			<p>Is it a \n yet?</p>
+		</article>
+		<article>
+			<h5>
+				<a href="https://github.com/Luzzie-ux/Push_swap">Push Swap</a>
+			</h5>
+			<p>Big O Hell</p>
+		</article>
+		<article>
+			<h5>
+				<a href="https://github.com/Luzzie-ux/Reload">Reload</a>
+			</h5>
+			<p>Piscine Reloaded</p>
+		</article>
+	</details>
+</section>
+<section>
+	<details>
+		<summary>
+			<h4>Python Language</h4>
+		</summary>
+		<article>
+			<h5> Module 1</h5>
+			<p> idk yet</p>
+		</article>
+	</details>
+</section>
 
 <ol>
 	<b>Python Modules</b>

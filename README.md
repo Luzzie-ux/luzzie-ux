@@ -32,7 +32,7 @@ I am a Cadet at 42 Porto and studying to become a Software Enginner.
 Learning is a pation of mine, and that is why I am here.  
 In case you need anything from me, my socials are listed below.    
 
-*Now that we have spoken, go check my work under [Projects](#projects)*.
+*Now that we have spoken, go check my work under [Projects](#projects-the-great-works)*.
 
 ### Interests - Current Pursuits
 
@@ -59,12 +59,12 @@ In case you need anything from me, my socials are listed below.
 <section>
 	<details>
 		<summary>
-			<h4>C Language</h4>
+			<h3> ✦ C Language ✦ </h3>
 		</summary>
 		<article>
-			<h5>
+			<h4>
 				<a href="https://github.com/Luzzie-ux/Libft">Libft</a>
-			</h5>
+			</h4>
 			<p>Custom C Library</p>
 		</article>
 		<article>
@@ -96,23 +96,30 @@ In case you need anything from me, my socials are listed below.
 <section>
 	<details>
 		<summary>
-			<h4>Python Language</h4>
+			<h3> ✦ Python Language ✦ </h3>
 		</summary>
 		<article>
 			<h5> Module 1</h5>
 			<p> idk yet</p>
 		</article>
+		<article>
+			<h5> Module 2</h5>
+			<p> idk yet</p>
+		</article>
+		<article>
+			<h5> Module 3</h5>
+			<p> idk yet</p>
+		</article>
+		<article>
+			<h5> Module 4</h5>
+			<p> idk yet</p>
+		</article>
+		<article>
+			<h5> Module 5</h5>
+			<p> idk yet</p>
+		</article>
 	</details>
 </section>
-
-<ol>
-	<b>Python Modules</b>
-	<li><a href=""></a>(Module 1)</li>
-	<li><a href=""></a>(Module 2)</li>
-	<li><a href=""></a>(Module 3)</li>
-	<li><a href=""></a>(Module 4)</li>
-	<li><a href=""></a>(Module 5)</li>
-</ol>
 
 ---
 

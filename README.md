@@ -68,7 +68,7 @@ HTML and CSS, with the help of Git too to make everything connected
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 -->
 
-*Now that we have spoken, go check my work*.
+*Now that we have spoken, go check my work.*
 
 <br></br>
 
@@ -78,60 +78,100 @@ HTML and CSS, with the help of Git too to make everything connected
 
 <br></br>
 
-*Come Nerevar, look upon the Code and the Projects we made*
+*Come Nerevar, look upon the Code and the Projects we made.*
 		
 <section className="C">
-	<details>
+	<details open>
 		<summary>
 			<h3> ⋆⁺₊⋆ ☾⋆⁺₊⋆ | C Language | ⋆⁺₊⋆ ☽⋆⁺₊⋆ </h3>
 		</summary>
 		<article>
-			<h4>Libft</h4>
-			<p><a href="https://github.com/Luzzie-ux/Libft">"The Custom C Library"</a></p>
+			<details>
+				<summary>
+					<h4>Libft</h4>
+				</summary>
+				<p><a href="https://github.com/Luzzie-ux/Libft">"The Custom C Library"</a></p>
+			</details>
 		</article>
 		<article>
-			<h4>Ft_Printf</h4>
-			<p><a href="https://github.com/Luzzie-ux/Printf">("%s", "HELLO WORLD!")</a></p>
+			<details>
+				<summary>
+					<h4>Ft_Printf</h4>
+				</summary>
+				<p><a href="https://github.com/Luzzie-ux/Printf">("%s", "HELLO WORLD!")</a></p>
+			</details>
 		</article>
 		<article>
-			<h4>Get_Next_Line</h4>
-			<p><a href="https://github.com/Luzzie-ux/GNL">"Is it a \n yet?"</a></p>
+			<details>
+				<summary>
+					<h4>Get_Next_Line</h4>
+				</summary>
+				<p><a href="https://github.com/Luzzie-ux/GNL">"Is it a \n yet?"</a></p>
+			</details>
 		</article>
 		<article>
-			<h4>Push_Swap</h4>
-			<p><a href="https://github.com/Luzzie-ux/Push_swap">"Big O Hell"</a></p>
+			<details>
+				<summary>
+					<h4>Push_Swap</h4>
+				</summary>
+				<p><a href="https://github.com/Luzzie-ux/Push_swap">"Big O Hell"</a></p>
+			</details>
 		</article>
 		<article>
-			<h4>Piscine_Reload</h4>
-			<p><a href="https://github.com/Luzzie-ux/Reload">"Reloading"</a></p>
+			<details>
+				<summary>
+					<h4>Piscine_Reload</h4>
+				</summary>
+				<p><a href="https://github.com/Luzzie-ux/Reload">"Reloading"</a></p>
+			</details>
 		</article>
 	</details>
 </section>
 <br></br>
 <section className="Python">
-	<details>
+	<details open>
 		<summary>
 			<h3> ⋆⁺₊⋆ ☾⋆⁺₊⋆ | Python Language | ⋆⁺₊⋆ ☽⋆⁺₊⋆ </h3>
 		</summary>
 		<article>
-			<h4> Module 1</h4>
-			<p><a></a> one does not rush the future </p>
+			<details>
+				<summary>
+					<h4> Module 1</h4>
+				</summary>
+				<p><a href="">one does not rush the future</a></p>
+			</details>
 		</article>
 		<article>
-			<h4> Module 2</h4>
-			<p><a></a> one does not rush the future </p>
+			<details>
+				<summary>
+					<h4> Module 2</h4>
+				</summary>
+				<p><a href="">one does not rush the future</a></p>
+			</details>
 		</article>
 		<article>
-			<h4> Module 3</h4>
-			<p><a></a> one does not rush the future </p>
+			<details>
+				<summary>
+					<h4> Module 3</h4>
+				</summary>
+				<p><a href="">one does not rush the future</a></p>
+			</details>
 		</article>
 		<article>
-			<h4> Module 4</h4>
-			<p><a></a> one does not rush the future </p>
+			<details>
+				<summary>
+					<h4> Module 4</h4>
+				</summary>
+				<p><a href="">one does not rush the future</a></p>
+			</details>
 		</article>
 		<article>
-			<h4> Module 5</h4>
-			<p><a></a> one does not rush the future </p>
+			<details>
+				<summary>
+					<h4> Module 5</h4>
+				</summary>
+				<p><a href="">one does not rush the future</a></p>
+			</details>
 		</article>
 	</details>
 </section>

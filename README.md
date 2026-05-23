@@ -44,7 +44,7 @@ Besides studying I am also working on my soft skills,
 So if you ever want to collaborate or,  
 In case you need anything from me, my socials are listed below.  
 
-### Interests - Current Pursuits
+### Interests
 
 -✦- Embedded Systems  
 -✦- Game Development  
@@ -52,7 +52,7 @@ In case you need anything from me, my socials are listed below.
 -✦- Psychology  
 -✦- Arts & Design  
 
-### Programming - Schools of Knowledge
+### Programming
 
 From some courses to fully studying computer science,  
 I have learned a thing or two about  

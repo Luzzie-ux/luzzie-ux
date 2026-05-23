@@ -137,6 +137,12 @@ HTML and CSS, with the help of Git too to make everything connected
 - Html cheat sheet: https://syntaxsimplified.com/cheatsheet/HTML/hypertext_markup_language.html
 - Markdown cheat sheet: https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet
 
+---
+
+⛧°. . ⋆༺☾༻⋆. .⋆⭒˚⭒⋆. . ⋆༺☾𖤓༻⋆ . .⋆⭒˚⭒⋆. . ⋆༺𖤓༻⋆. °⛧  
+*Farewall Neraverine, may we see eachother again*  
+⛧°. . ⋆༺☾༻⋆. .⋆⭒˚⭒⋆. . ⋆༺☾𖤓༻⋆ . .⋆⭒˚⭒⋆. . ⋆༺𖤓༻⋆. °⛧  
+
 </body>
 </html>
 

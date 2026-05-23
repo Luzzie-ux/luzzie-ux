@@ -10,7 +10,7 @@
 	<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/banner.png" width="1150px"/>
 </div>
 
----
+<br></br>
 
 <div align="justify">
 	<div>
@@ -26,11 +26,12 @@
 	<p> the path of open sourceness countribuiton</p>
 </div>
 
----
+<br></br>
 
 <div>
 	<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/about.svg" width="500px"/>
 </div>
+
 <br></br>
 
 ### About me
@@ -69,11 +70,12 @@ HTML and CSS, with the help of Git too to make everything connected
 
 *Now that we have spoken, go check my work*.
 
----
+<br></br>
 
 <div>
 	<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/projects.svg" width="500px"/>
 </div>
+
 <br></br>
 
 *Come Nerevar, look upon the Code and the Projects we made*
@@ -133,13 +135,13 @@ HTML and CSS, with the help of Git too to make everything connected
 		</article>
 	</details>
 </section>
-<br></br>
 
----
+<br></br>
 
 <div>
 	<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/links.svg" width="500px"/>
 </div>
+
 <br></br>
 
 ### Socials
@@ -152,7 +154,7 @@ HTML and CSS, with the help of Git too to make everything connected
 - Html cheat sheet: https://syntaxsimplified.com/cheatsheet/HTML/hypertext_markup_language.html
 - Markdown cheat sheet: https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet
 
----
+<br></br>
 
 <div align="center">
 	<p>⛧°. . ⋆༺☾༻⋆. .⋆⭒˚⭒⋆. . ⋆༺☾𖤓༻⋆ . .⋆⭒˚⭒⋆. . ⋆༺𖤓༻⋆. °⛧</p>  

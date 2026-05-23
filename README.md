@@ -158,7 +158,7 @@ HTML and CSS, with the help of Git too to make everything connected
 
 <div align="center">
 	<p>⛧°. . ⋆༺☾༻⋆. .⋆⭒˚⭒⋆. . ⋆༺☾𖤓༻⋆ . .⋆⭒˚⭒⋆. . ⋆༺𖤓༻⋆. °⛧</p>  
-	<p>*Farewall Nerevarine, may we see eachother again*</p>
+	<p><em>Farewell Nerevarine, may we see each other again</em></p>
 	<p>⛧°. . ⋆༺☾༻⋆. .⋆⭒˚⭒⋆. . ⋆༺☾𖤓༻⋆ . .⋆⭒˚⭒⋆. . ⋆༺𖤓༻⋆. °⛧</p>	    
 </div>
 

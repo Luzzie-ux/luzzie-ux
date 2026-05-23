@@ -14,7 +14,7 @@
 
 <div align="justify">
 	<div>
-		<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/poem.png" width="500px"/>
+		<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/poem.svg" width="500px"/>
 	</div>
 	<br></br>
 	<p> Through the honor of the houses and the Princes of Oblivion, we create,</p>
@@ -29,7 +29,7 @@
 ---
 
 <div>
-	<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/about.png" width="500px"/>
+	<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/about.svg" width="500px"/>
 </div>
 <br></br>
 
@@ -38,7 +38,7 @@
 Hello! My name is Luz :D  
 
 I am a Cadet at 42 Porto and studying to become a Software Enginner.   
-Learning is a pation of mine, and that is why I am here.  
+Learning is a passion of mine, and that is why I am here.  
 Besides studying I am also working on my soft skills,  
 So if you ever want to collaborate or,  
 In case you need anything from me, my socials are listed below.  
@@ -46,9 +46,9 @@ In case you need anything from me, my socials are listed below.
 ### Interests - Current Pursuits
 
 -✦- Embedded Systems  
--✦- Game Develepment  
--✦- Building & Eletronics  
--✦- Psicology  
+-✦- Game Development  
+-✦- Building & Electronics  
+-✦- Psychology  
 -✦- Arts & Design  
 
 ### Programming - Schools of Knowledge
@@ -72,7 +72,7 @@ HTML and CSS, with the help of Git too to make everything connected
 ---
 
 <div>
-	<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/projects.png" width="500px"/>
+	<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/projects.svg" width="500px"/>
 </div>
 <br></br>
 
@@ -89,7 +89,7 @@ HTML and CSS, with the help of Git too to make everything connected
 		</article>
 		<article>
 			<h4>Ft_Printf</h4>
-			<p><a href="https://github.com/Luzzie-ux/GNL">("%s", "HELLO WORLD!")</a></p>
+			<p><a href="https://github.com/Luzzie-ux/Printf">("%s", "HELLO WORLD!")</a></p>
 		</article>
 		<article>
 			<h4>Get_Next_Line</h4>
@@ -113,23 +113,23 @@ HTML and CSS, with the help of Git too to make everything connected
 		</summary>
 		<article>
 			<h4> Module 1</h4>
-			<p><a></a> idk yet</p>
+			<p><a></a> one does not rush the future </p>
 		</article>
 		<article>
 			<h4> Module 2</h4>
-			<p><a></a> idk yet</p>
+			<p><a></a> one does not rush the future </p>
 		</article>
 		<article>
 			<h4> Module 3</h4>
-			<p><a></a> idk yet</p>
+			<p><a></a> one does not rush the future </p>
 		</article>
 		<article>
 			<h4> Module 4</h4>
-			<p><a></a> idk yet</p>
+			<p><a></a> one does not rush the future </p>
 		</article>
 		<article>
 			<h4> Module 5</h4>
-			<p><a></a> idk yet</p>
+			<p><a></a> one does not rush the future </p>
 		</article>
 	</details>
 </section>
@@ -138,13 +138,13 @@ HTML and CSS, with the help of Git too to make everything connected
 ---
 
 <div>
-	<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/links.png" width="500px"/>
+	<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/links.svg" width="500px"/>
 </div>
 <br></br>
 
 ### Socials
 	
-- Linkelin: https://www.linkedin.com/in/rodrigo-pereira-6bb579358
+- LinkedIn: https://www.linkedin.com/in/rodrigo-pereira-6bb579358
 - Email: estelarodrigoluz@gmail.com  
 
 ### Resources
@@ -156,7 +156,7 @@ HTML and CSS, with the help of Git too to make everything connected
 
 <div align="center">
 	<p>⛧°. . ⋆༺☾༻⋆. .⋆⭒˚⭒⋆. . ⋆༺☾𖤓༻⋆ . .⋆⭒˚⭒⋆. . ⋆༺𖤓༻⋆. °⛧</p>  
-	<p>*Farewall Neraverine, may we see eachother again*</p>
+	<p>*Farewall Nerevarine, may we see eachother again*</p>
 	<p>⛧°. . ⋆༺☾༻⋆. .⋆⭒˚⭒⋆. . ⋆༺☾𖤓༻⋆ . .⋆⭒˚⭒⋆. . ⋆༺𖤓༻⋆. °⛧</p>	    
 </div>
 

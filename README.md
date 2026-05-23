@@ -24,7 +24,7 @@
 
 ---
 
-### About me - Records of the Neraverine
+## About me - Records of the Neraverine
 
 Hello! My name is Luz :D  
 
@@ -52,7 +52,7 @@ In case you need anything from me, my socials are listed below.
 
 ---
 
-### Projects - The Great Works
+## Projects - The Great Works
 
 *Come Nerevar, look upon the Code and the Projects we made*
 		
@@ -112,16 +112,20 @@ In case you need anything from me, my socials are listed below.
 	</details>
 </section>
 <br></br>
+
 ---
 
-### Links
+## Links
+
+### Socials
 	
-Linkelin: [in/rodrigo-pereira](https://www.linkedin.com/in/rodrigo-pereira-6bb579358)
+- Linkelin: https://www.linkedin.com/in/rodrigo-pereira-6bb579358
+- Email: estelarodrigoluz@gmail.com  
 
-Email: estelarodrigoluz@gmail.com  
+### Resources
 
-<p title="check this out"><a href="https://syntaxsimplified.com/cheatsheet/HTML/hypertext_markup_language.html">Html</a> cheat sheet</p>
-<p title="this one too"><a href="https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet">Markdown</a> cheat sheet</p>
+<p title="check this out"><a href="https://syntaxsimplified.com/cheatsheet/HTML/hypertext_markup_language.html">Html cheat sheet</a></p>
+<p title="this one too"><a href="https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet">Markdown cheat sheet</a></p>
 
 </body>
 </html>

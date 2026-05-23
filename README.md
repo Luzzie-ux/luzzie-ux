@@ -13,7 +13,7 @@
 ---
 
 <div align="justify">
-	<h3>Records of House Dagoth</h3>
+	<h2>Poem to House Dagoth</h2>
 	<p> Through the honor of the houses and the Princes of Oblivion, we create,</p>
 	<p> In these archives lie the works forged through sleepless study,</p>
 	<p> the trials of logic, and the pursuit of hidden knowledge.</p>
@@ -30,25 +30,35 @@ Hello! My name is Luz :D
 
 I am a Cadet at 42 Porto and studying to become a Software Enginner.   
 Learning is a pation of mine, and that is why I am here.  
-In case you need anything from me, my socials are listed below.    
-
-*Now that we have spoken, go check my work under [Projects](#projects-the-great-works)*.
+Besides studying I am also working on my soft skills,  
+So if you ever want to collaborate or,  
+In case you need anything from me, my socials are listed below.  
 
 ### Interests - Current Pursuits
 
-✦	Embedded Systems  
-✦	Game Develepment  
-✦	Building & Eletronics  
-✦	Psicology  
-✦	Arts & Design  
+-✦- Embedded Systems  
+-✦- Game Develepment  
+-✦- Building & Eletronics  
+-✦- Psicology  
+-✦- Arts & Design  
 
-### Schools of Knowledge
+### Programming - Schools of Knowledge
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+From some courses to fully studying computer science,  
+I have learned a thing or two about  
+Programming Languages such as C and Python.  
+But I have also spent some time self educating about  
+HTML and CSS, with the help of Git too to make everything connected  
+ 
+<!-- languages badges
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+-->
+
+*Now that we have spoken, go check my work under [Projects](#projects-the-great-works)*.
 
 ---
 
@@ -59,7 +69,7 @@ In case you need anything from me, my socials are listed below.
 <section>
 	<details>
 		<summary>
-			<h3> ✦ C Language ✦ </h3>
+			<h3> ⋆⁺₊⋆ ☾⋆⁺₊⋆ C Language ⋆⁺₊⋆ ☽⋆⁺₊⋆ </h3>
 		</summary>
 		<article>
 			<h4>Libft</h4>
@@ -87,7 +97,7 @@ In case you need anything from me, my socials are listed below.
 <section>
 	<details>
 		<summary>
-			<h3> ✦ Python Language ✦ </h3>
+			<h3> ⋆⁺₊⋆ ☾⋆⁺₊⋆ Python Language ⋆⁺₊⋆ ☽⋆⁺₊⋆ </h3>
 		</summary>
 		<article>
 			<h4> Module 1</h4>

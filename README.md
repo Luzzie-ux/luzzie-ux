@@ -59,13 +59,19 @@ I have learned a thing or two about
 Programming Languages such as C and Python.  
 But I have also spent some time self educating about  
 HTML and CSS, with the help of Git too to make everything connected  
- 
-<!-- languages badges
+
+<div align="justify">
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+<!-- languages badges
+
 -->
 
 *Now that we have spoken, go check my work.*

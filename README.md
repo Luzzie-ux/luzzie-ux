@@ -124,8 +124,8 @@ In case you need anything from me, my socials are listed below.
 
 ### Resources
 
-<p title="check this out"><a href="https://syntaxsimplified.com/cheatsheet/HTML/hypertext_markup_language.html">Html cheat sheet</a></p>
-<p title="this one too"><a href="https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet">Markdown cheat sheet</a></p>
+- Html cheat sheet: https://syntaxsimplified.com/cheatsheet/HTML/hypertext_markup_language.html
+- Markdown cheat sheet: https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet
 
 </body>
 </html>

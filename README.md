@@ -124,7 +124,7 @@ HTML and CSS, with the help of Git too to make everything connected
 					<h4>Push_Swap -<em> Under Construction...</em></h4>
 					<p>The Order of complexity just went from 0 to O(n log (n))</p>
 				</summary>
-				<p><a href="https://github.com/Luzzie-ux/Push_swap">->View repo</a></p>
+				<p><a href="https://github.com/Luzzie-ux/Push_Swap">->View repo</a></p>
 			</details>
 		</article>
 		<article>

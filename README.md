@@ -121,7 +121,7 @@ HTML and CSS, with the help of Git too to make everything connected
 		<article>
 			<details>
 				<summary>
-					<h4>Push_Swap -<em> Under Construction...</em></h4>
+					<h4>Push_Swap -<em> This sure took a O(n2) time </em></h4>
 					<p>The Order of complexity just went from 0 to O(n log (n))</p>
 				</summary>
 				<p><a href="https://github.com/Luzzie-ux/Push_Swap">->View repo</a></p>
@@ -147,9 +147,17 @@ HTML and CSS, with the help of Git too to make everything connected
 		<article>
 			<details>
 				<summary>
+					<h4> Module 0</h4>
+				</summary>
+				<p><a href="https://github.com/Luzzie-ux/Python/tree/head/m0"> The basics of The way of the snake if you will </a></p>
+			</details>
+		</article>
+		<article>
+			<details>
+				<summary>
 					<h4> Module 1</h4>
 				</summary>
-				<p><a href="">one does not rush the future</a></p>
+				<p><a href="https://github.com/Luzzie-ux/Python/tree/head/m1"> Its a Plane! its a Train! NO Its a CLASS </a></p>
 			</details>
 		</article>
 		<article>
@@ -157,7 +165,7 @@ HTML and CSS, with the help of Git too to make everything connected
 				<summary>
 					<h4> Module 2</h4>
 				</summary>
-				<p><a href="">one does not rush the future</a></p>
+				<p><a href="https://github.com/Luzzie-ux/Python/tree/head/m2"> ERROR FOUND, but keep going </a></p>
 			</details>
 		</article>
 		<article>
@@ -165,7 +173,7 @@ HTML and CSS, with the help of Git too to make everything connected
 				<summary>
 					<h4> Module 3</h4>
 				</summary>
-				<p><a href="">one does not rush the future</a></p>
+				<p><a href="https://github.com/Luzzie-ux/Python/tree/head/m3"> CLI? more like, ... idk man </a></p>
 			</details>
 		</article>
 		<article>
@@ -173,15 +181,7 @@ HTML and CSS, with the help of Git too to make everything connected
 				<summary>
 					<h4> Module 4</h4>
 				</summary>
-				<p><a href="">one does not rush the future</a></p>
-			</details>
-		</article>
-		<article>
-			<details>
-				<summary>
-					<h4> Module 5</h4>
-				</summary>
-				<p><a href="">one does not rush the future</a></p>
+				<p><a href="https://github.com/Luzzie-ux/Python/tree/head/m4"> Oh you want this data rightttt ? </a></p>
 			</details>
 		</article>
 	</details>

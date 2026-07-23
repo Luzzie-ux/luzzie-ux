@@ -147,41 +147,46 @@ HTML and CSS, with the help of Git too to make everything connected
 		<article>
 			<details>
 				<summary>
-					<h4> Module 0</h4>
+					<h4> Module 0 -<em> The basics of The Way of the Snake, if you will </em></h4>
+					<p>Introduction to Python programming through practical community garden scenarios.</p>
 				</summary>
-				<p><a href="https://github.com/Luzzie-ux/Python/tree/head/m0"> The basics of The way of the snake if you will </a></p>
+				<p><a href="https://github.com/Luzzie-ux/Python/tree/head/m0">->View repo</a></p>
 			</details>
 		</article>
 		<article>
 			<details>
 				<summary>
-					<h4> Module 1</h4>
+					<h4> Module 1 -<em> Its a Plane! its a Train! NO Its a CLASS!</em></h4>
+					<p>Learn Object-Oriented Programming by accidentally becoming a digital gardener - because apparently, you've been doing OOP all along!</p>
 				</summary>
-				<p><a href="https://github.com/Luzzie-ux/Python/tree/head/m1"> Its a Plane! its a Train! NO Its a CLASS </a></p>
+				<p><a href="https://github.com/Luzzie-ux/Python/tree/head/m1">->View repo</a></p>
 			</details>
 		</article>
 		<article>
 			<details>
 				<summary>
-					<h4> Module 2</h4>
+					<h4> Module 2 -<em> ERROR FOUND, but keep going.</em></h4>
+					<p>Build robust garden data pipelines that never wilt!</p>
 				</summary>
-				<p><a href="https://github.com/Luzzie-ux/Python/tree/head/m2"> ERROR FOUND, but keep going </a></p>
+				<p><a href="https://github.com/Luzzie-ux/Python/tree/head/m2">->View repo</a></p>
 			</details>
 		</article>
 		<article>
 			<details>
 				<summary>
-					<h4> Module 3</h4>
+					<h4> Module 3 -<em> CLI? more like, ... idk man</em></h4>
+					<p> </p>
 				</summary>
-				<p><a href="https://github.com/Luzzie-ux/Python/tree/head/m3"> CLI? more like, ... idk man </a></p>
+				<p><a href="https://github.com/Luzzie-ux/Python/tree/head/m3">->View repo</a></p>
 			</details>
 		</article>
 		<article>
 			<details>
 				<summary>
-					<h4> Module 4</h4>
+					<h4> Module 4 -<em> Oh you want this data rightttt?</em></h4>
+					<p> </p>
 				</summary>
-				<p><a href="https://github.com/Luzzie-ux/Python/tree/head/m4"> Oh you want this data rightttt ? </a></p>
+				<p><a href="https://github.com/Luzzie-ux/Python/tree/head/m4">->View repo</a></p>
 			</details>
 		</article>
 	</details>

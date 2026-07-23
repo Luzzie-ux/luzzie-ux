@@ -175,7 +175,7 @@ HTML and CSS, with the help of Git too to make everything connected
 			<details>
 				<summary>
 					<h4> Module 3 -<em> CLI? more like, ... idk man</em></h4>
-					<p> </p>
+					<p>Master Python’s powerful data structures while building and processing game data. </p>
 				</summary>
 				<p><a href="https://github.com/Luzzie-ux/Python/tree/head/m3">->View repo</a></p>
 			</details>
@@ -184,7 +184,7 @@ HTML and CSS, with the help of Git too to make everything connected
 			<details>
 				<summary>
 					<h4> Module 4 -<em> Oh you want this data rightttt?</em></h4>
-					<p> </p>
+					<p>Preserve digital knowledge by mastering file operations, managing data streams, and building robust archival systems that protect information. </p>
 				</summary>
 				<p><a href="https://github.com/Luzzie-ux/Python/tree/head/m4">->View repo</a></p>
 			</details>

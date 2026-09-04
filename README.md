@@ -57,97 +57,93 @@ HTML and CSS, with the help of Git too to make everything connected
 	
 </div>
 
-*Now that we have spoken, go check my work.*
+<br></br>
 
-## Projects
-
-*Come Nerevar, look upon the Code and the Projects we made.*
-		
-<section className="C">
-	<details>
-		<summary>
-			<h3> ⋆⁺₊⋆ ☾⋆⁺₊⋆ | C/C++ Language | ⋆⁺₊⋆ ☽⋆⁺₊⋆ </h3>
-		</summary>
-		<article>
-			<details>
-				<summary>
-					<h4>Libft -<em> A custom implementation of the C standard library</em></h4>
-   					<p>Memory management, string manipulation and linked lists</p>
-				</summary>
-				<p><a href="https://github.com/Luzzie-ux/Libft">->View repo</a></p>
-			</details>
-		</article>
-		<article>
-			<details>
-				<summary>
-					<h4>Push_Swap -<em> This sure took a O(n2) time </em></h4>
-					<p>The Order of complexity just went from 0 to O(n log (n))</p>
-				</summary>
-				<p><a href="https://github.com/Luzzie-ux/Push_Swap">->View repo</a></p>
-			</details>
-		</article>
-	</details>
-</section>
-
-<section className="Python">
-	<details>
-		<summary>
-			<h3> ⋆⁺₊⋆ ☾⋆⁺₊⋆ | Python Language | ⋆⁺₊⋆ ☽⋆⁺₊⋆ </h3>
-		</summary>
-		<article>
-			<details>
-				<summary>
-					<h4> Modules -<em> The Way of the Snake </em></h4>
-					<p>Introduction to Python programming through pratical exercises.</p>
-				</summary>
-				<p><a href="https://github.com/Luzzie-ux/Python-Modules/">->View repo</a></p>
-			</details>
-		</article>
-		<article>
-			<details>
-				<summary>
-					<h4> A-Maze-Ing -<em> I'm lost already :D </em></h4>
-					<p> Graph Theory, Maze Generation, Maze Solving and Team Work.</p>
-				</summary>
-				<p><a href="https://github.com/Neuza-Nascimento/A_Maze_ing">->View repo</a></p>
-			</details>
-		</article>
-	</details>
-</section>
-
-<section className="ASM x86_64">
-	<details>
-		<summary>
-			<h3> ⋆⁺₊⋆ ☾⋆⁺₊⋆ | x86_64 ASM Language | ⋆⁺₊⋆ ☽⋆⁺₊⋆ </h3>
-		</summary>
-		<article>
-			<details>
-				<summary>
-					<h4> Libasm -<em> The basics of Machine Code </em></h4>
-					<p>Introduction to Assembly.</p>
-				</summary>
-				<p><a href="https://github.com/Luzzie-ux/ASM">->View repo</a></p>
-			</details>
-		</article>
-	</details>
-</section>
-
-<section className="Virtual Machine">
-	<details>
-		<summary>
-			<h3> ⋆⁺₊⋆ ☾⋆⁺₊⋆ | Virtual Machine | ⋆⁺₊⋆ ☽⋆⁺₊⋆ </h3>
-		</summary>
-		<article>
-			<details>
-				<summary>
-					<h4> Born2BeRoot -<em> Become Root </em></h4>
-					<p>Introduction to Virtual Machines.</p>
-				</summary>
-				<p><a href="https://github.com/Luzzie-ux/Born2beRoot">->View repo</a></p>
-			</details>
-		</article>
-	</details>
-</section>
+<div id="projects", align="center">
+	<h2><em>Projects.</em></h2>
+	<section className="C">
+		<details>
+			<summary>
+				<h3> ⋆⁺₊⋆ ☾⋆⁺₊⋆ | C/C++ Language | ⋆⁺₊⋆ ☽⋆⁺₊⋆ </h3>
+			</summary>
+			<article>
+				<details>
+					<summary>
+						<h4>Libft -<em> A custom implementation of the C standard library</em></h4>
+	   					<p>Memory management, string manipulation and linked lists</p>
+					</summary>
+					<p><a href="https://github.com/Luzzie-ux/Libft">->View repo</a></p>
+				</details>
+			</article>
+			<article>
+				<details>
+					<summary>
+						<h4>Push_Swap -<em> This sure took a O(n2) time </em></h4>
+						<p>The Order of complexity just went from 0 to O(n log (n))</p>
+					</summary>
+					<p><a href="https://github.com/Luzzie-ux/Push_Swap">->View repo</a></p>
+				</details>
+			</article>
+		</details>
+	</section>
+	<section className="Python">
+		<details>
+			<summary>
+				<h3> ⋆⁺₊⋆ ☾⋆⁺₊⋆ | Python Language | ⋆⁺₊⋆ ☽⋆⁺₊⋆ </h3>
+			</summary>
+			<article>
+				<details>
+					<summary>
+						<h4> Modules -<em> The Way of the Snake </em></h4>
+						<p>Introduction to Python programming through pratical exercises.</p>
+					</summary>
+					<p><a href="https://github.com/Luzzie-ux/Python-Modules/">->View repo</a></p>
+				</details>
+			</article>
+			<article>
+				<details>
+					<summary>
+						<h4> A-Maze-Ing -<em> I'm lost already :D </em></h4>
+						<p> Graph Theory, Maze Generation, Maze Solving and Team Work.</p>
+					</summary>
+					<p><a href="https://github.com/Neuza-Nascimento/A_Maze_ing">->View repo</a></p>
+				</details>
+			</article>
+		</details>
+	</section>
+	<section className="ASM x86_64">
+		<details>
+			<summary>
+				<h3> ⋆⁺₊⋆ ☾⋆⁺₊⋆ | x86_64 ASM Language | ⋆⁺₊⋆ ☽⋆⁺₊⋆ </h3>
+			</summary>
+			<article>
+				<details>
+					<summary>
+						<h4> Libasm -<em> The basics of Machine Code </em></h4>
+						<p>Introduction to Assembly.</p>
+					</summary>
+					<p><a href="https://github.com/Luzzie-ux/ASM">->View repo</a></p>
+				</details>
+			</article>
+		</details>
+	</section>
+	<section className="Virtual Machine">
+		<details>
+			<summary>
+				<h3> ⋆⁺₊⋆ ☾⋆⁺₊⋆ | Virtual Machine | ⋆⁺₊⋆ ☽⋆⁺₊⋆ </h3>
+			</summary>
+			<article>
+				<details>
+					<summary>
+						<h4> Born2BeRoot -<em> Become Root </em></h4>
+						<p>Introduction to Virtual Machines.</p>
+					</summary>
+					<p><a href="https://github.com/Luzzie-ux/Born2beRoot">->View repo</a></p>
+				</details>
+			</article>
+		</details>
+	</section>
+</div>
 
 ##
 

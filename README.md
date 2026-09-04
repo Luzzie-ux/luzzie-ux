@@ -10,31 +10,7 @@
 	<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/banner.png" width="1150px"/>
 </div>
 
-<br></br>
-
-<div align="justify">
-	<div>
-		<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/poem.svg" width="500px"/>
-	</div>
-	<br></br>
-	<p> Through the honor of the houses and the Princes of Oblivion, we create,</p>
-	<p> In these archives lie the works forged through sleepless study,</p>
-	<p> the trials of logic, and the pursuit of hidden knowledge.</p>
-	<p> From the ashlands of low-level programming</p>
-	<p> to the strange magics of software engineering,</p>
-	<p> each project marks another step upon this path,</p>
-	<p> the path of open sourceness countribuiton</p>
-</div>
-
-<br></br>
-
-<div>
-	<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/about.svg" width="500px"/>
-</div>
-
-<br></br>
-
-### About me
+## About me
 
 Hello! My name is Luz :D  
 
@@ -81,26 +57,18 @@ HTML and CSS, with the help of Git too to make everything connected
 	
 </div>
 
-<!-- languages badges
-
--->
-
 *Now that we have spoken, go check my work.*
 
 <br></br>
 
-<div>
-	<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/projects.svg" width="500px"/>
-</div>
-
-<br></br>
+## Projects
 
 *Come Nerevar, look upon the Code and the Projects we made.*
 		
 <section className="C">
 	<details open>
 		<summary>
-			<h3> ⋆⁺₊⋆ ☾⋆⁺₊⋆ | C Language | ⋆⁺₊⋆ ☽⋆⁺₊⋆ </h3>
+			<h3> ⋆⁺₊⋆ ☾⋆⁺₊⋆ | C/C++ Language | ⋆⁺₊⋆ ☽⋆⁺₊⋆ </h3>
 		</summary>
 		<article>
 			<details>
@@ -114,37 +82,10 @@ HTML and CSS, with the help of Git too to make everything connected
 		<article>
 			<details>
 				<summary>
-					<h4>Ft_Printf -<em> A reimplementation of the classic printf function.</em></h4>
-					<p>Handling variadic arguments and format specifiers.</p>
-				</summary>
-				<p><a href="https://github.com/Luzzie-ux/Printf">->View repo</a></p>
-			</details>
-		</article>
-		<article>
-			<details>
-				<summary>
-					<h4>Get_Next_Line -<em> A function that reads a file descriptor line by line.</em></h4>
-					<p>Exploring static variables, buffer management, and file I/O</p>
-				</summary>
-				<p><a href="https://github.com/Luzzie-ux/GNL">->View repo</a></p>
-			</details>
-		</article>
-		<article>
-			<details>
-				<summary>
 					<h4>Push_Swap -<em> This sure took a O(n2) time </em></h4>
 					<p>The Order of complexity just went from 0 to O(n log (n))</p>
 				</summary>
 				<p><a href="https://github.com/Luzzie-ux/Push_Swap">->View repo</a></p>
-			</details>
-		</article>
-		<article>
-			<details>
-				<summary>
-					<h4>Piscine_Reload -<em> A return to the fundamentals — revisiting the 42 Piscine exercises.</em></h4>
-					<p>Sharpening the basics of C after the initial trial by fire.</p>
-				</summary>
-				<p><a href="https://github.com/Luzzie-ux/Reload">->View repo</a></p>
 			</details>
 		</article>
 	</details>
@@ -160,46 +101,19 @@ HTML and CSS, with the help of Git too to make everything connected
 		<article>
 			<details>
 				<summary>
-					<h4> Module 0 -<em> The basics of The Way of the Snake, if you will </em></h4>
-					<p>Introduction to Python programming through practical community garden scenarios.</p>
+					<h4> Modules -<em> The Way of the Snake </em></h4>
+					<p>Introduction to Python programming through pratical exercises.</p>
 				</summary>
-				<p><a href="https://github.com/Luzzie-ux/Python/tree/head/m0">->View repo</a></p>
+				<p><a href="https://github.com/Luzzie-ux/Python-Modules/">->View repo</a></p>
 			</details>
 		</article>
 		<article>
 			<details>
 				<summary>
-					<h4> Module 1 -<em> Its a Plane! its a Train! NO Its a CLASS!</em></h4>
-					<p>Learn Object-Oriented Programming by accidentally becoming a digital gardener - because apparently, you've been doing OOP all along!</p>
+					<h4> A-Maze-Ing -<em> I'm lost already :D </em></h4>
+					<p> Graph Theory, Maze Generation, Maze Solving and Team Work.</p>
 				</summary>
-				<p><a href="https://github.com/Luzzie-ux/Python/tree/head/m1">->View repo</a></p>
-			</details>
-		</article>
-		<article>
-			<details>
-				<summary>
-					<h4> Module 2 -<em> ERROR FOUND, but keep going.</em></h4>
-					<p>Build robust garden data pipelines that never wilt!</p>
-				</summary>
-				<p><a href="https://github.com/Luzzie-ux/Python/tree/head/m2">->View repo</a></p>
-			</details>
-		</article>
-		<article>
-			<details>
-				<summary>
-					<h4> Module 3 -<em> CLI? more like, ... idk man</em></h4>
-					<p>Master Python’s powerful data structures while building and processing game data. </p>
-				</summary>
-				<p><a href="https://github.com/Luzzie-ux/Python/tree/head/m3">->View repo</a></p>
-			</details>
-		</article>
-		<article>
-			<details>
-				<summary>
-					<h4> Module 4 -<em> Oh you want this data rightttt?</em></h4>
-					<p>Preserve digital knowledge by mastering file operations, managing data streams, and building robust archival systems that protect information. </p>
-				</summary>
-				<p><a href="https://github.com/Luzzie-ux/Python/tree/head/m4">->View repo</a></p>
+				<p><a href="https://github.com/Neuza-Nascimento/A_Maze_ing">->View repo</a></p>
 			</details>
 		</article>
 	</details>
@@ -226,11 +140,26 @@ HTML and CSS, with the help of Git too to make everything connected
 
 <br></br>
 
-<div>
-	<img src="https://github.com/Luzzie-ux/luzzie-ux/blob/main/assets/links.svg" width="500px"/>
-</div>
+<section className="Virtual Machine">
+	<details open>
+		<summary>
+			<h3> ⋆⁺₊⋆ ☾⋆⁺₊⋆ | Virtual Machine | ⋆⁺₊⋆ ☽⋆⁺₊⋆ </h3>
+		</summary>
+		<article>
+			<details>
+				<summary>
+					<h4> Born2BeRoot -<em> Become Root </em></h4>
+					<p>Introduction to Virtual Machines.</p>
+				</summary>
+				<p><a href="https://github.com/Luzzie-ux/Born2beRoot">->View repo</a></p>
+			</details>
+		</article>
+	</details>
+</section>
 
 <br></br>
+
+## Links
 
 ### Socials
 	

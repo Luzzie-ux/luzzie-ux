@@ -59,14 +59,12 @@ HTML and CSS, with the help of Git too to make everything connected
 
 *Now that we have spoken, go check my work.*
 
-<br></br>
-
 ## Projects
 
 *Come Nerevar, look upon the Code and the Projects we made.*
 		
 <section className="C">
-	<details open>
+	<details>
 		<summary>
 			<h3> ⋆⁺₊⋆ ☾⋆⁺₊⋆ | C/C++ Language | ⋆⁺₊⋆ ☽⋆⁺₊⋆ </h3>
 		</summary>
@@ -91,10 +89,8 @@ HTML and CSS, with the help of Git too to make everything connected
 	</details>
 </section>
 
-<br></br>
-
 <section className="Python">
-	<details open>
+	<details>
 		<summary>
 			<h3> ⋆⁺₊⋆ ☾⋆⁺₊⋆ | Python Language | ⋆⁺₊⋆ ☽⋆⁺₊⋆ </h3>
 		</summary>
@@ -119,10 +115,8 @@ HTML and CSS, with the help of Git too to make everything connected
 	</details>
 </section>
 
-<br></br>
-
 <section className="ASM x86_64">
-	<details open>
+	<details>
 		<summary>
 			<h3> ⋆⁺₊⋆ ☾⋆⁺₊⋆ | x86_64 ASM Language | ⋆⁺₊⋆ ☽⋆⁺₊⋆ </h3>
 		</summary>
@@ -138,10 +132,8 @@ HTML and CSS, with the help of Git too to make everything connected
 	</details>
 </section>
 
-<br></br>
-
 <section className="Virtual Machine">
-	<details open>
+	<details>
 		<summary>
 			<h3> ⋆⁺₊⋆ ☾⋆⁺₊⋆ | Virtual Machine | ⋆⁺₊⋆ ☽⋆⁺₊⋆ </h3>
 		</summary>
@@ -157,21 +149,7 @@ HTML and CSS, with the help of Git too to make everything connected
 	</details>
 </section>
 
-<br></br>
-
-## Links
-
-### Socials
-	
-- LinkedIn: https://www.linkedin.com/in/rodrigo-pereira-6bb579358
-- Email: estelarodrigoluz@gmail.com  
-
-### Resources
-
-- Html cheat sheet: https://syntaxsimplified.com/cheatsheet/HTML/hypertext_markup_language.html
-- Markdown cheat sheet: https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet
-
-<br></br>
+##
 
 <div align="center">
 	<p>⛧°. . ⋆༺☾༻⋆. .⋆⭒˚⭒⋆. . ⋆༺☾𖤓༻⋆ . .⋆⭒˚⭒⋆. . ⋆༺𖤓༻⋆. °⛧</p>  

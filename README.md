@@ -28,7 +28,7 @@ In case you need anything from me, my socials are listed below.
 -✦- Psychology  
 -✦- Arts & Design  
 
-### Programming
+### Tech Stack
 
 From some courses to fully studying computer science,  
 I have learned a thing or two about  
